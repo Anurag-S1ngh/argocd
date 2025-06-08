@@ -5,7 +5,7 @@ metadata:
 spec:
   containers:
     - name: myapp
-      image: "nginx:latest"
+      image: "anurag1829/github-action-test:9ddd5b688d8dae54386710c057a5370f00818999"
 ---
 apiVersion: v1
 kind: Pod
