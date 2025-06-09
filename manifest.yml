@@ -5,6 +5,6 @@ metadata:
 spec:
   containers:
     - name: myapp
-      image: "anurag1829/github-action-test:9ddd5b688d8dae54386710c057a5370f00818999"
+      image: "anurag1829/github-action-test:e949fdd26c24ae1d51357327bba8da7e6fc45828"
 ---
 
